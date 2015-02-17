@@ -1,0 +1,4 @@
+usage:
+	stow emacs
+
+Places symbolic links in your home directory.
